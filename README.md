@@ -10,3 +10,4 @@
 
 1. Put the sway config file in the directory ~/.config/sway/
 2. If you want to use the wallpaper, place it in ~/Pictures/wallpapers or change the path in the config file appropriately. 
+3. Change everything else that you may need to change (particularly input and output settings).
